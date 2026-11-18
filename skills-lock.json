@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "214140846/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.experimental/frontend-design/SKILL.md",
+      "computedHash": "6219b42889144fbe744379441b178b4560eda9b613d5591959065b5939d88fb2"
+    }
+  }
+}
