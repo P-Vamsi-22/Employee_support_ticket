@@ -16,6 +16,7 @@ export default function TicketCard({ ticket, index = 0 }) {
         <Link to={`/tickets/${ticket.id}`} className="ticket-link">
           {ticket.title}
         </Link>
+        {ticket.description && <span className="ticket-description">{ticket.description}</span>}
       </td>
       <td>
         <span className="category-tag">{ticket.category}</span>
